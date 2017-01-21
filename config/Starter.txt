@@ -1,0 +1,10 @@
+python Lsr.py A 2000 configA.txt
+python Lsr.py H 2001 configH.txt
+python Lsr.py I 2002 configI.txt
+python Lsr.py J 2003 configJ.txt
+python Lsr.py K 2004 configK.txt
+python Lsr.py L 2005 configL.txt
+python Lsr.py M 2006 configM.txt
+python Lsr.py N 2007 configN.txt
+python Lsr.py O 2008 configO.txt
+python Lsr.py P 2009 configP.txt
